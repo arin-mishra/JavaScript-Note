@@ -1,0 +1,21 @@
+/* #box{
+    height: 300px;
+    width: 100px;
+    background-color: dodgerblue;
+    border: 2px solid black;
+    
+}
+
+ul{
+    color: white;
+} */
+
+.pracPara{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.newPracClass{
+    background-color: aqua;
+}
